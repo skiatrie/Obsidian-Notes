@@ -1,7 +1,7 @@
 ---
 title: "Accepted Metadata for Markdown Files"
 ---
-this is a test
+this is a test!!!
 Here are all the metadata fields accepted by the linked-blog-starter-md template. All fields are optional.
 ```
 title: "Title of Note"
